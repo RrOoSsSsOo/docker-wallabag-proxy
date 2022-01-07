@@ -40,7 +40,7 @@ On `Volume` tab click `Add File` and select from File Manager `docker/wallabag/e
 
 ![Synology-guide-2](https://user-images.githubusercontent.com/1734343/148547300-db5949bf-eb32-4c53-992d-6e435f16555b.png)
 
-<sub>PS: the mount of folder `docker/wallabag/var/www/wallabag/data` to mounth data `/var/www/wallabag/data` permits the easy upgrade of docker new image versions mantaining databases and users password.</sub>
+<sub>PS: the mount of folder `docker/wallabag/var/www/wallabag/data` to mount data `/var/www/wallabag/data` permits the easy upgrade of docker new image versions mantaining databases and users password.</sub>
 
 On `Port Settings` tab click `Add` and specify a `Local Port` for `Container Port` `81`.
 
